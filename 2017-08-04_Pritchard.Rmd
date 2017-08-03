@@ -41,7 +41,7 @@ The bacterium *P. atrosepticum* (*Pba*) causes blackleg/softrot
 - Provide background for better detection of new pathogen introductions
 - More precise and accurate diagnostics
     - improved tracking of *Pba*
-    - enabe development of improved control measures
+    - enable development of improved control measures
 
 <div class="highlight">
 **Total requested support: £8000** <br /><br />
