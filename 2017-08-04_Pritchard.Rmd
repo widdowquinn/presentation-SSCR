@@ -127,7 +127,7 @@ kable(df)
 
 - **Why are there *any* distinct groups of *Pba*?**
     - all *Pba* carried in on recent introductions?
-    - *Pba* coexists naturally in mixed communities?
+    - do *Pba* variants coexist naturally in mixed communities?
 - **If *Pba* introduced from elsewhere…**
     - can we date earliest introduction?
     - can we identify nation/continent of origin?
@@ -151,10 +151,10 @@ kable(df)
     - also Europe, North & South America, Asia
 
 <div class="highlight">
-**By sequencing ≈100 isolates, we will make a historical atlas of Scottish *Pba*.**
+**Sequence ≈100 isolates, we will make a historical atlas of Scottish *Pba*.**
 </div>
 
 - Long-term account of *Pba* in Scottish soils
-- Provides background for better detection of new pathogen introductions
-- Provides a basis for more precise and accurate diagnostics
-    - enabling development of improved control measures
+- Provide background for better detection of new pathogen introductions
+- Provide a basis for more precise and accurate diagnostics
+    - enable development of improved control measures
