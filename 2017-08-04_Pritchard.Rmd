@@ -28,7 +28,7 @@ The bacterium *P. atrosepticum* (*Pba*) causes blackleg/softrot
 **Where does infection come from?** We need to track *Pba*
 </div>
 
-- identifying pathogen origin enables control measures
+- identifying pathogen origin enables control measure development
 
 
 ## Overview
@@ -50,7 +50,7 @@ To sequence ≈20% of our *Pba* isolate collection at JHI
 
 - sequencing costs (100 isolates): £7000
 - consumables: £1000
-
+- staff time in kind (supporting RESAS work packages)
 
 ## *P. atrosepticum* diagnostics
 
@@ -62,12 +62,11 @@ To sequence ≈20% of our *Pba* isolate collection at JHI
 <img src="images/anim_pectobacterium.png" width="45%">
 </center>
 
-- Single molecular diagnostic for all *P. atrosepticum* (ECA primers)
+- Single diagnostic for all *Pba* (ECA primers); MLST, VNTR for subgroups
 
 <div class="highlight">
-**We need more genome data to individualise isolates.**
+**Genome data allows individualisation.**
 </div>
-
 
 ## *P. atrosepticum* genomes: NCBI
 
@@ -105,14 +104,19 @@ kable(df)
 </div>
 
 <center>
-<img src="images/parsnp.png" width="90%">
+<img src="images/parsnp.png" width="80%">
 </center>
+
+<div class="highlight">
+**Genome diversity of *Pba* in NE Scotland > global *Pba* genome diversity**
+</div>
+
 
 
 ## Another surprise…
 
 <div class="attention">
-***Pba* groups widespread across NE Scotland, no 'interbreeding'**
+***Pba* groups widespread across NE Scotland, little/no 'interbreeding'**
 </div>
 
 <center>
@@ -126,15 +130,16 @@ kable(df)
 ## Unanswered questions
 
 - **Why are there *any* distinct groups of *Pba*?**
-    - all *Pba* carried in on recent introductions?
-    - do *Pba* variants coexist naturally in mixed communities?
+    - shouldn't they 'mix' more in a small geographical area?
+    - were all *Pba* carried in on recent introductions?
+    - do *Pba* variants coexist worldwide in mixed communities?
 - **If *Pba* introduced from elsewhere…**
     - can we date earliest introduction?
-    - can we identify nation/continent of origin?
-- **If *Pba* naturally present…**
+    - can we track, or identify nation/continent of origin?
+- **If *Pba* naturally present and mixed worldwide…**
     - what is natural diversity across Scotland?
-    - can we use this background to detect new introductions?
-- **Can we develop more accurate diagnostics?**
+    - can we use this background to detect new local introductions?
+- **Can we use data to develop more accurate diagnostics?**
   
 <div class="highlight">
 **We can answer these questions by sequencing our *Pba* collection**
@@ -151,10 +156,11 @@ kable(df)
     - also Europe, North & South America, Asia
 
 <div class="highlight">
-**Sequence ≈100 isolates, we will make a historical atlas of Scottish *Pba*.**
+**Sequence ≈100 isolates, to make a historical atlas of Scottish *Pba*.**
 </div>
 
-- Long-term account of *Pba* in Scottish soils
+- Long-term account of *Pba* in Scottish soils, mapped to region
+    - understand history and transfer of *Pba* in Scotland
 - Provide background for better detection of new pathogen introductions
 - Provide a basis for more precise and accurate diagnostics
     - enable development of improved control measures
