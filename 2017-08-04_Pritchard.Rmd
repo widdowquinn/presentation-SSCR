@@ -142,7 +142,7 @@ kable(df)
 - **Can we use data to develop more accurate diagnostics?**
   
 <div class="highlight">
-**We can answer these questions by sequencing our *Pba* collection**
+**Help to answer these questions by sequencing our *Pba* collection**
 </div>
 
 ## JHI Collection
